@@ -1,0 +1,5 @@
+VPN Gateway: vpn.fake1-corp.local
+Auth System: PhoenixAuth_v2
+
+Note:
+VPN uses same credentials as internal email.
