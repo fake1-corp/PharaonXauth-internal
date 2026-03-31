@@ -1,0 +1,8 @@
+Internal Notes:
+
+- Employees often ignore security emails
+- Password reset campaigns usually succeed
+- IT support email is trusted across departments
+
+Reminder:
+Do not expose this repository publicly.
