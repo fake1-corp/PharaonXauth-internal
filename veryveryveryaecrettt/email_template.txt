@@ -1,0 +1,13 @@
+Subject: PhoenixAuth_v2 - Password Reset Required
+
+Dear Employee,
+
+As part of the PhoenixAuth_v2 security upgrade, all employees are required to reset their passwords.
+
+Failure to comply may result in temporary account suspension.
+
+Please follow IT instructions.
+
+Regards,
+IT Support
+Fake1 Corp
